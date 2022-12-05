@@ -1,6 +1,8 @@
 # ATmega-Dev-Board
  Development board for ATmega microcontrollers
 
+PCB available on eBay by request - email me at 119818995+TechLabGH@users.noreply.github.com
+
 Combined from few different projects with some improvements.
 
 Created with KiCAD 6.0
